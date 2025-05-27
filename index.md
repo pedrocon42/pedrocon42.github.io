@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about learning something new everyday"
 
 linkedin: https://www.linkedin.com/in/pedro-contreras-8565b7295/
-image: /assets/images/me.jpg
+image: /assets/images/me-headshot.jpg
 ---
