@@ -27,6 +27,8 @@ about:
       description: I love shooting street photography, but I also enjoy doing nature photography and portraits of others. 
 
   gallery:
+    - image: /assets/images/me-conference.jpg
+      caption: Me at the 2024 Society of Hispanic Professional Engineers Conference in Anaheim, CA.
     - image: /assets/images/me-city.jpg
       caption: A picture I took while walking through a city.
     - image: /assets/images/me-circuit.jpg
