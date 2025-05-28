@@ -27,7 +27,7 @@ about:
       description: I love shooting street photography, but I also enjoy doing nature photography and portraits of others. 
 
   gallery:
-    - image: /assets/images/me-city.png
+    - image: /assets/images/me-city.jpg
       caption: A picture I took while walking through a city.
     - image: /assets/images/me-circuit.jpg
       caption: A circuit I built for my Circuits class.
