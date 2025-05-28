@@ -4,35 +4,33 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Pedro Contreras
+  role: Junior, Electrical Engineering Major at Morgan State University
+  image: /assets/images/me-headshot.jpg
+  linkedin: https://www.linkedin.com/in/pedro-contreras-8565b7295/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a junior studying Electrical Engineering at Morgan State University in Baltimore, MD, expecting to graduate in Fall 2027.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My work will develop a machine learning defense system to predict and counteract unforseen adversial attacks.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
-
+    When I’m not working on research, I enjoy shooting photography, building circuits, and going to explore different places.
+    
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🏙️
+      title: Exploring
+      description: I enjoy exploring new place, whether that be close or very far away, but I enjoy walking in cities or nature.
+    - icon: ⚡
+      title: Circuit Projects
+      description: I enjoy building circuits for my classes and learning about electrical components and how they work with each other. 
+    - icon: 📷
+      title: Photography
+      description: I love shooting street photography, but I also enjoy doing nature photography and portraits of others. 
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/me-city.png
+      caption: A picture I took while walking through a city.
+    - image: /assets/images/me-circuit.jpg
+      caption: A circuit I built for my Circuits class.
+    - image: /assets/images/me-camera.jpg
+      caption: Me with my camera I use to shoot pictures. 
 ---
