@@ -18,7 +18,7 @@ about:
   hobbies:
     - icon: 🏙️
       title: Exploring
-      description: I enjoy exploring new place, whether that be close or very far away, but I enjoy walking in cities or nature.
+      description: I enjoy exploring new places, whether they are close or very far away, mainly exploring cities or nature.
     - icon: ⚡
       title: Circuit Projects
       description: I enjoy building circuits for my classes and learning about electrical components and how they work with each other. 
