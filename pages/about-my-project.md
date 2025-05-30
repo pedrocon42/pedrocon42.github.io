@@ -16,7 +16,7 @@ approach: |
   - Converting the model from Python to C++ for IoT deployment
   - Evaluating model accuracy and robustness against real-time, unknown attacks
 
-Tools include Python, C++, and IoT hardware for deployment and testing.
+  Tools include Python, C++, and IoT hardware for deployment and testing.
 
 outcome: |
   A functional proactive detection system capable of identifying unforeseen attacks on IoT devices, along with performance evaluation data and a research presentation outlining system design, implementation, and results.
