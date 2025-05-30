@@ -4,23 +4,18 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
+  name: Olayinka Jolayemi
   title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  image: /assets/images/grad.student.jpg
+  website: https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Olayinka Jolayemi is a PhD candidate in Electrical Engineering, focused on Secure Embedded systems. His research focuses on investigating adversarial attack effects on Resilient Distributed Algorithms (RDO). 
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Cliston Cole
+  title: Professor Cole, Morgan State University
+  image: /assets/images/dr.cole.jpg
+  website: https://www.sssresearch.com/home
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
-
+    Dr. Cole’s research interests span digital signal processing, speech and image processing, radar systems, artificial intelligence (AI), machine learning, and neuroscience. He is particularly focused on developing algorithms and software systems that enhance speech recognition and computer vision capabilities in communication and AI applications. His work aims to improve quality of life through the advancement of intelligent systems, including embedded smart technologies.
 ---
