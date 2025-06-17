@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Day 16 - Meta-Adv Model Results"
+date: 2025-06-17
+author: Pedro Contreras
+permalink: /day16.html
+tags: ["Cybersecurity", "Machine Learning"]
+
+what_i_learned: |
+  Today I was able to get results from my model that is supposed to replicate the model in the scholarly paper we were assigned. While it was running, I was going through the code to try and fully grasp the concept and how it relates to what the paper has. I was able to learn how the code works: it uses a ResNet56 Neural Network as the base learner to identify the images in the CIFAR-10 Dataset. After implementing the different attacks within the code, it creates a set to train the model to recognize the attacks and then it creates another set to test it with different attacks it has not seen and this is one task, each epoch has 16 tasks and the model runs 400 epochs. After each task, it uses gradient descent to quickly adapt the model, and then it updates the main model based on how well those quick adaptations worked. It then computes how accurately it was able to detect the clean images and how well it could detect the 4 attacks implemented. 
+  Once it finished running I got the results: I was able to get about 52% accuracy on clean images, and then <16% for 4 of the 5 attacks, and about 51% on the other attack. Overall, the results are a lot better than before and it shows that my model is actually learning how to learn, but the results are still not where I want them to be. Now I am working on creating a model to try and replace the ResNet56 Neural Network with a ResNet-18 for better performance, add tougher attacks for better training and add label smoothing and exponential moving average to improve its accuracy.
+  
+blockers: |
+  Conceptualizing was a little difficult and as I am working on this new model I keep running into errors because I am tyring to run it on Colab, so some of the libraries do not run certain commands and functions so it is tedious to work around that. 
+
+reflection: |
+  Overall, I am glad I was able to improve my results from my previous models. I was scared it wasn't going to be able to improve or be able to actually learn but seeing the accuracy percentage increase as it went through the epochs gave me hope and so I am looking forward trying to improve the model. Right now, with this new model it is annoying because of the amount of errors I am running into. They are all related to what Colab is able to run and having to run certain versions of certain libraries, such as Pytorch, it is just tedious. But I am excited to work on this new model and see how the results turn out once I finish it. 
+  
+---
